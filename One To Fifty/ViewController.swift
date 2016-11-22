@@ -13,7 +13,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 
     internal func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         
-        return 50
+        return 60
         
     }
     
@@ -28,6 +28,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
     }
     
+
 
     
 
