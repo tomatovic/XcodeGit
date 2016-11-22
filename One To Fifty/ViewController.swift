@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  One To Fifty
-//  Test
+//
 //  Created by Thomas on 02.09.16.
 //  Copyright © 2016 Thomas Hirth. All rights reserved.
 //
